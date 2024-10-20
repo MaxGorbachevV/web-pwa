@@ -1,0 +1,45 @@
+body {
+	margin: 0;
+	font-size: 2rem;
+}
+
+.container {
+	max-width: 576px;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+.input-div label {
+	display: block;
+	margin-bottom: 10px;
+}
+
+.input-div input {
+	width: 100%;
+	box-sizing: border-box;
+	font-size: 2rem;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.input-div button {	
+	font-size: 2rem;
+	width: 75%;
+	display: block;
+	margin: 0 auto;
+	background-color: rgb(139, 0, 0);
+	color: white;
+	padding: 10px;
+	border-radius: 50px;
+}
+
+.input-div {
+	margin-bottom: 20px;
+}
+
+.header {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 50px;
+}
